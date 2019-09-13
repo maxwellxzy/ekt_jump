@@ -8,5 +8,6 @@
 		header("location:http://ekt.szedu.com/dist/index.html#/");
 	}
 
+	//test
 ?>
 
